@@ -1,7 +1,7 @@
 # CSE_572_DataMining
 
 In this project, we are attempting to develop a computing system that can understand human gestures. 
-##Data Collection:
+*Data Collection:*
 Large data of 10 actions with each 20 repetitions of 47 teams is collected using four sensors accelerometer, gyroscope, orientation and EMG which produced 18 data streams for each repetition. 
 #Data Cleaning:
 Data has been cleaned by removing the noisy data which is caused by unintended and unwanted actions and also the actions caused by incorrectly wearing the sensors.
